@@ -1,6 +1,6 @@
 # Berkcraft
 
-[![](berkcraft)](https://cf.way2muchnoise.eu/full_berkcraft_downloads.svg)
+[![Download from CurseForge](https://cf.way2muchnoise.eu/full_berkcraft_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/berkcraft)
 
 This modpack focuses on only one thing: improving the true vanilla experience without filling up your game with tons of mods.
 
