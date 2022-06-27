@@ -1,42 +1,39 @@
-Version 1.0.4:
+# Minecraft 1.19
 
+#### Version 1.0.4:
 Added:
 - FixMySpawnR
-
- 
 
 Updated:
 - Balm
 - Fabric Language Kotlin
 
- 
+------------
 
-Version 1.0.3:
+
+####Version 1.0.3:
 
 Added:
 - Item Borders
 
- 
+------------
 
-Version 1.0.2:
+
+####Version 1.0.2:
 Added:
 - Auditory
 - Equipment Compare
 - Item Highlighter
 
- 
-
 Updated:
 - Blur
 
- 
+------------
 
-Version 1.0.1:
 
+####Version 1.0.1:
 Added:
 - Advancement Plaques
-
- 
 
 Updated:
 - FallingTree
@@ -44,99 +41,76 @@ Updated:
 - Legendary Tootips
 - Mouse Wheelie
 
- 
+------------
 
-Version 1.0:
+
+####Version 1.0:
 
 Added:
 - AmbientSounds 5
 - ExtraSounds
 
- 
-
 Other changes:
 - Disabled MAmbience ambient sounds in favor of AmbientSounds 5
 
- 
+------------
 
-Version 0.1.8:
 
+####Version 0.1.8:
 Added:
-
 - Change settings by command
-
 - NarrateBookForMe
 
- 
-
 Updated:
-
 - Illuminations
-
 - RightClickHarvest
 
- 
+------------
 
-Version 0.1.7:
 
+####Version 0.1.7:
 Added:
-
 - ShulkerBoxTooltip
 
- 
-
 Updated:
-
 - Fabric API
 
- 
+------------
 
-Version 0.1.6:
 
+####Version 0.1.6:
 Added:
-- Creatures+ Resource Pack
 - Motschen's Better Leaves Resource Pack (optional)
-
- 
 
 Updated:
 - Dark Loading Screen
 - Fabric API
 
- 
+------------
 
-Version 0.1.5a:
 
+####Version 0.1.5a:
 Disabled temporarily:
-
 - Illuminations (due to some frequent random crashes on the latest update, already issued to the dev)
 
- 
+------------
 
-Version 0.1.5:
 
+####Version 0.1.5:
 Added:
-
 - Animatica
-
 - CleanCut
 
- 
-
 Updated:
-
 - Fabric Capes
-
 - Flytre Lib
-
 - Mouse Wheelie
-
 - Zoomify
 
- 
+------------
 
-Version 0.1.4:
 
+####Version 0.1.4:
 Added:
 - FallingTree
 - Farsight
@@ -147,120 +121,87 @@ Added:
 - Pling
 - You're in Grave Danger
 
- 
-
 Updated:
 - Fabric Capes
 - Flytre Lib
 - Illuminations
 
- 
+------------
 
-Version 0.1.3:
 
+####Version 0.1.3:
 Added:
-
 - Carpet Extra
-
 - Carpet TIS Addition
-
 - Dual Riders
-
 - EditSign
-
 - Fabric Seasons
-
 - SlimyFloor
 
- 
-
 Updated:
-
 - Alternate Current
-
 - Debugify
-
 - Enhanced Block Entities
-
 - Map Tooltip
 
- 
+------------
 
-Version 0.1.2a:
 
+####Version 0.1.2a:
 Updated:
-
 - Entity Texture Features
-
 - Fabric API
-
 - Raised
 
- 
+------------
 
-Version 0.1.2:
 
+####Version 0.1.2:
 Added:
-
 - Emotecraft
-
 - Simple Voice Chat
 
- 
-
 Updated:
-
 - Fabric Loader
 
- 
-
 Removed:
-
 - Better Beds
 
- 
+------------
 
-Version 0.1.1:
 
+####Version 0.1.1:
 Added:
 - Couplings
 - Enhanced Block Entities
 - Motschen's Puddles
 - Visual Overhaul
 
- 
-
 Updated:
 - Entity Texture Features
 - Indium
 
- 
-
 Disabled temporarily:
 - Charm (due to a bug where villagers would refuse to get jobs)
 
- 
+------------
 
-Version 0.1.0:
 
+####Version 0.1.0:
 Added:
 - Better Biome Blend
 - JumpOverFences
-
- 
 
 Updated:
 - Balm
 - Language Reload
 
- 
+------------
 
-Version 0.0.9:
 
+####Version 0.0.9:
 Added:
-
 - Mouse Wheelie (replacing Mouse Tweaks)
-
 - Charm (with hand-picked features):
 
 > Place a block of amethyst under a note block to play its placement sound
@@ -293,126 +234,98 @@ Added:
 
 > Various mob texture variants
 
- 
-
 Removed:
-
 - Better Animal Models (in favor of mob texture variants from the Charm mod)
 
- 
-
 Updated:
-
 - Starlight
 
- 
+------------
 
-Version 0.0.8:
 
+####Version 0.0.8:
 Added:
 - LambdaBetterGrass
-
- 
 
 Updated:
 - Balm
 - Clumps
 - RightClickHarvest
 
- 
+------------
 
-Version 0.0.7:
+
+####Version 0.0.7:
 Added:
 - Map Tooltip (see a map by hovering over it in the inventory)
 - Custom Vanilla Tweaks Resource Pack (with select visual improvements and fixes)
-
- 
 
 Updated:
 - Borderless Mining
 - Indium
 
- 
+------------
 
-Version 0.0.6:
+
+####Version 0.0.6:
 Updated:
 - Bookshelf
 - Enchantment Descriptions
 - Fabric Capes
 - Language Reload
 
- 
-
 Added:
 - Client Tweaks
 
- 
-
 Other changes:
-
 - Disabled Bedrockify's panorama background on all screens due to a bug in the language selection menu
 
- 
+------------
 
-Version 0.0.5:
+
+####Version 0.0.5:
 Added:
-
 - Bedrockify (with hand-picked features, you'll see while playing lol)
-
 - Precise Block Placing (only enabled in creative mode by default)
 
- 
+------------
 
-Version 0.0.4:
+
+####Version 0.0.4:
 Added:
-
 - Controlling (Search bar for the key binds menu)
-
 - Enchantment Descriptions (You guessed it, adds descriptions to enchantment books)
-
 - KleeSlabs (Break only half of a double slab)
-
 - Simple Discord RPC (Shows Minecraft activity on Discord)
 
- 
-
 Other changes:
-
 - Zoom key will not be overwritten by Save Hotbar Activator key by default
-
 - Default Illuminations resource pack set to Pixel Accurate, which better suits vanilla Minecraft
 
- 
+------------
 
-Version 0.0.3:
+
+####Version 0.0.3:
 Added:
-
 - Presence Footsteps
 
- 
-
 Updated:
-
 - Debugify
 
- 
-
 Other changes:
-
 - Auto-jump is now turned off by default
-
 - Lowered music volume when booting up for the first time
 
- 
+------------
 
-Version 0.0.2:
+
+####Version 0.0.2:
 Added:
-
 - Alternate Current (Redstone optimizations)
-
 - Fabrishot (Take large screenshots)
 
- 
+------------
 
-Version 0.0.1:
+
+####Version 0.0.1:
 - Initial release
