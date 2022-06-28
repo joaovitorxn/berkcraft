@@ -117,6 +117,7 @@
 | KleeSlabs | BlayTheNinth | Allows breaking only half of a double slab |
 | More Chat History | JackFred2 | Changes chat history size from just 100 messages to 16.384 |
 | Mouse Wheelie | Siphalor | Enable various mouse wheel related actions |
+| No Chat Reports | Aizistral | Disable built-in reporting system server-side |
 | No Fade | Ultimate Boomer | Removes all of those fade out animations in Minecraft |
 | Not Enough Crashes | NatanFudge | Continue playing after a crash without needing to restart the game |
 | Simple Discord RPC | hypherionsa, ExplodingCreeperGroup | Allows displaying Minecraft activity on Discord status |
