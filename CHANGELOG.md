@@ -1,6 +1,21 @@
 # Minecraft 1.19
 
-#### Version 1.0.5:
+### Version 1.0.6:
+#### BIG NEWS!
+
+Berkcraft is now a **BisectHosting** partner!
+
+By using the code "berkcraft" you will get 25% off your month for ANY game servers!
+
+Get your own server now: https://bisecthosting.com/berkcraft
+
+Updated:
+- No Chat Reports
+- Presence Footsteps
+
+------------
+
+### Version 1.0.5:
 Added:
 - Main Menu Credits
 - No Chat Reports
@@ -10,7 +25,7 @@ Other changes:
 
 ------------
 
-#### Version 1.0.4:
+### Version 1.0.4:
 Added:
 - FixMySpawnR
 
@@ -20,14 +35,14 @@ Updated:
 
 ------------
 
-#### Version 1.0.3:
+### Version 1.0.3:
 
 Added:
 - Item Borders
 
 ------------
 
-#### Version 1.0.2:
+### Version 1.0.2:
 Added:
 - Auditory
 - Equipment Compare
@@ -38,7 +53,7 @@ Updated:
 
 ------------
 
-#### Version 1.0.1:
+### Version 1.0.1:
 Added:
 - Advancement Plaques
 
@@ -50,7 +65,7 @@ Updated:
 
 ------------
 
-#### Version 1.0:
+### Version 1.0:
 
 Added:
 - AmbientSounds 5
@@ -61,7 +76,7 @@ Other changes:
 
 ------------
 
-#### Version 0.1.8:
+### Version 0.1.8:
 Added:
 - Change settings by command
 - NarrateBookForMe
@@ -72,7 +87,7 @@ Updated:
 
 ------------
 
-#### Version 0.1.7:
+### Version 0.1.7:
 Added:
 - ShulkerBoxTooltip
 
@@ -81,7 +96,7 @@ Updated:
 
 ------------
 
-#### Version 0.1.6:
+### Version 0.1.6:
 Added:
 - Motschen's Better Leaves Resource Pack (optional)
 
@@ -91,13 +106,13 @@ Updated:
 
 ------------
 
-#### Version 0.1.5a:
+### Version 0.1.5a:
 Disabled temporarily:
 - Illuminations (due to some frequent random crashes on the latest update, already issued to the dev)
 
 ------------
 
-#### Version 0.1.5:
+### Version 0.1.5:
 Added:
 - Animatica
 - CleanCut
@@ -110,7 +125,7 @@ Updated:
 
 ------------
 
-#### Version 0.1.4:
+### Version 0.1.4:
 Added:
 - FallingTree
 - Farsight
@@ -128,7 +143,7 @@ Updated:
 
 ------------
 
-#### Version 0.1.3:
+### Version 0.1.3:
 Added:
 - Carpet Extra
 - Carpet TIS Addition
@@ -145,7 +160,7 @@ Updated:
 
 ------------
 
-#### Version 0.1.2a:
+### Version 0.1.2a:
 Updated:
 - Entity Texture Features
 - Fabric API
@@ -153,7 +168,7 @@ Updated:
 
 ------------
 
-#### Version 0.1.2:
+### Version 0.1.2:
 Added:
 - Emotecraft
 - Simple Voice Chat
@@ -166,7 +181,7 @@ Removed:
 
 ------------
 
-#### Version 0.1.1:
+### Version 0.1.1:
 Added:
 - Couplings
 - Enhanced Block Entities
@@ -182,7 +197,7 @@ Disabled temporarily:
 
 ------------
 
-#### Version 0.1.0:
+### Version 0.1.0:
 Added:
 - Better Biome Blend
 - JumpOverFences
@@ -193,7 +208,7 @@ Updated:
 
 ------------
 
-#### Version 0.0.9:
+### Version 0.0.9:
 Added:
 - Mouse Wheelie (replacing Mouse Tweaks)
 - Charm (with hand-picked features):
@@ -236,7 +251,7 @@ Updated:
 
 ------------
 
-#### Version 0.0.8:
+### Version 0.0.8:
 Added:
 - LambdaBetterGrass
 
@@ -247,7 +262,7 @@ Updated:
 
 ------------
 
-#### Version 0.0.7:
+### Version 0.0.7:
 Added:
 - Map Tooltip (see a map by hovering over it in the inventory)
 - Custom Vanilla Tweaks Resource Pack (with select visual improvements and fixes)
@@ -258,7 +273,7 @@ Updated:
 
 ------------
 
-#### Version 0.0.6:
+### Version 0.0.6:
 Updated:
 - Bookshelf
 - Enchantment Descriptions
@@ -273,14 +288,14 @@ Other changes:
 
 ------------
 
-#### Version 0.0.5:
+### Version 0.0.5:
 Added:
 - Bedrockify (with hand-picked features, you'll see while playing lol)
 - Precise Block Placing (only enabled in creative mode by default)
 
 ------------
 
-#### Version 0.0.4:
+### Version 0.0.4:
 Added:
 - Controlling (Search bar for the key binds menu)
 - Enchantment Descriptions (You guessed it, adds descriptions to enchantment books)
@@ -293,7 +308,7 @@ Other changes:
 
 ------------
 
-#### Version 0.0.3:
+### Version 0.0.3:
 Added:
 - Presence Footsteps
 
@@ -306,12 +321,12 @@ Other changes:
 
 ------------
 
-#### Version 0.0.2:
+### Version 0.0.2:
 Added:
 - Alternate Current (Redstone optimizations)
 - Fabrishot (Take large screenshots)
 
 ------------
 
-#### Version 0.0.1:
+### Version 0.0.1:
 - Initial release
