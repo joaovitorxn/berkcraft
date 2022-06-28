@@ -4,6 +4,8 @@
 
 ![Berkcraft Logo](https://i.imgur.com/33VKvbv.png)
 
+[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/755325dc-cd43-46ec-a470-800c91dad19c.png)](https://bisecthosting.com/berkcraft)
+
 
 ------------
 
