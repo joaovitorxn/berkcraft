@@ -27,5 +27,3 @@ Download here:
 
 #### **Recommended shaders:**
 - [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined "Complementary Reimagined") by [EminGTR](https://www.curseforge.com/members/emingtr/followers "EminGTR")
-
-#### **[CHANGELOG](https://github.com/Berkouli/berkcraft/blob/main/CHANGELOG.md "CHANGELOG")**
