@@ -32,6 +32,7 @@
 | Advancement Plaques | Grend_G | Replace those boring, anti-climactic advancement popups with fancy glowing plaques |
 | AppleSkin | squeek502 | Adds some useful information about food/hunger to the HUD |
 | Better Mount HUD | Lorsteam_ | Improves the ingame HUD while riding a horse, donkey or other mount. |
+| BisectHosting Server Integration Menu | BisectHosting | BisectHosting Server List Menu Integration for Fabric |
 | Blur | Motschen | Adds a blur effect to all GUI backgrounds |
 | Chat Heads | dzwdz | Adds player heads next to chat messages |
 | Controlling | Jaredllll08 | Adds a search bar to the Key-Bindings menu  |
