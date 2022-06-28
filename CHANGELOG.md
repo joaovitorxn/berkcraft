@@ -10,14 +10,12 @@ Updated:
 
 ------------
 
-
 #### Version 1.0.3:
 
 Added:
 - Item Borders
 
 ------------
-
 
 #### Version 1.0.2:
 Added:
@@ -29,7 +27,6 @@ Updated:
 - Blur
 
 ------------
-
 
 #### Version 1.0.1:
 Added:
@@ -43,7 +40,6 @@ Updated:
 
 ------------
 
-
 #### Version 1.0:
 
 Added:
@@ -54,7 +50,6 @@ Other changes:
 - Disabled MAmbience ambient sounds in favor of AmbientSounds 5
 
 ------------
-
 
 #### Version 0.1.8:
 Added:
@@ -67,7 +62,6 @@ Updated:
 
 ------------
 
-
 #### Version 0.1.7:
 Added:
 - ShulkerBoxTooltip
@@ -76,7 +70,6 @@ Updated:
 - Fabric API
 
 ------------
-
 
 #### Version 0.1.6:
 Added:
@@ -88,13 +81,11 @@ Updated:
 
 ------------
 
-
 #### Version 0.1.5a:
 Disabled temporarily:
 - Illuminations (due to some frequent random crashes on the latest update, already issued to the dev)
 
 ------------
-
 
 #### Version 0.1.5:
 Added:
@@ -108,7 +99,6 @@ Updated:
 - Zoomify
 
 ------------
-
 
 #### Version 0.1.4:
 Added:
@@ -128,7 +118,6 @@ Updated:
 
 ------------
 
-
 #### Version 0.1.3:
 Added:
 - Carpet Extra
@@ -146,7 +135,6 @@ Updated:
 
 ------------
 
-
 #### Version 0.1.2a:
 Updated:
 - Entity Texture Features
@@ -154,7 +142,6 @@ Updated:
 - Raised
 
 ------------
-
 
 #### Version 0.1.2:
 Added:
@@ -168,7 +155,6 @@ Removed:
 - Better Beds
 
 ------------
-
 
 #### Version 0.1.1:
 Added:
@@ -186,7 +172,6 @@ Disabled temporarily:
 
 ------------
 
-
 #### Version 0.1.0:
 Added:
 - Better Biome Blend
@@ -197,7 +182,6 @@ Updated:
 - Language Reload
 
 ------------
-
 
 #### Version 0.0.9:
 Added:
@@ -242,7 +226,6 @@ Updated:
 
 ------------
 
-
 #### Version 0.0.8:
 Added:
 - LambdaBetterGrass
@@ -254,7 +237,6 @@ Updated:
 
 ------------
 
-
 #### Version 0.0.7:
 Added:
 - Map Tooltip (see a map by hovering over it in the inventory)
@@ -265,7 +247,6 @@ Updated:
 - Indium
 
 ------------
-
 
 #### Version 0.0.6:
 Updated:
@@ -282,14 +263,12 @@ Other changes:
 
 ------------
 
-
 #### Version 0.0.5:
 Added:
 - Bedrockify (with hand-picked features, you'll see while playing lol)
 - Precise Block Placing (only enabled in creative mode by default)
 
 ------------
-
 
 #### Version 0.0.4:
 Added:
@@ -304,7 +283,6 @@ Other changes:
 
 ------------
 
-
 #### Version 0.0.3:
 Added:
 - Presence Footsteps
@@ -318,14 +296,12 @@ Other changes:
 
 ------------
 
-
 #### Version 0.0.2:
 Added:
 - Alternate Current (Redstone optimizations)
 - Fabrishot (Take large screenshots)
 
 ------------
-
 
 #### Version 0.0.1:
 - Initial release
