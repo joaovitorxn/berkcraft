@@ -1,5 +1,15 @@
 # Minecraft 1.19
 
+#### Version 1.0.5:
+Added:
+- Main Menu Credits
+- No Chat Reports
+
+Other changes:
+- Updated Simple Discord RPC's config file
+
+------------
+
 #### Version 1.0.4:
 Added:
 - FixMySpawnR
