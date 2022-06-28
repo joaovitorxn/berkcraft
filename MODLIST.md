@@ -121,7 +121,7 @@
 | No Fade | Ultimate Boomer | Removes all of those fade out animations in Minecraft |
 | Not Enough Crashes | NatanFudge | Continue playing after a crash without needing to restart the game |
 | Simple Discord RPC | hypherionsa, ExplodingCreeperGroup | Allows displaying Minecraft activity on Discord status |
-| Your Options Shall Be Respected (YOSBR) | Provides default options if the corresponding option file doesn't exist |
+| Your Options Shall Be Respected (YOSBR) | shedaniel | Provides default options if the corresponding option file doesn't exist |
 | Zoomify | XanderIsDev | Adds a zoom key to Minecraft |
 
 # Visual
