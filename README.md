@@ -1,6 +1,6 @@
 # Berkcraft: True Vanilla Made Better
 
-[![Download from CurseForge](https://img.shields.io/badge/CURSEFORGE%20-DOWNLOAD-orange?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/berkcraft)	[![PayPal](https://img.shields.io/badge/SUPPORT%20ME-DONATE-blue?style=for-the-badge&logo=paypal "PayPal")](https://www.paypal.com/donate/?token=IKggYNWBWYWn0mcmRr49l85slAXrwrUgquJiu1Nxz3ltgZMRe6AhgunW777JtGi8hOl-9MUQ9Szrnvjc&locale.x=US "PayPal")	[![Twitter](https://img.shields.io/twitter/follow/joaovitorxn?color=blue&label=follow%20me&logo=twitter&style=for-the-badge "Twitter")](https://twitter.com/joaovitorxn "Twitter")
+[![Download from CurseForge](https://img.shields.io/badge/CURSEFORGE-DOWNLOAD-orange?style=for-the-badge&logo=curseforge&logoColor=orange)](https://www.curseforge.com/minecraft/modpacks/berkcraft)	[![PayPal](https://img.shields.io/badge/SUPPORT%20ME-DONATE-blue?style=for-the-badge&logo=paypal "PayPal")](https://www.paypal.com/donate/?token=IKggYNWBWYWn0mcmRr49l85slAXrwrUgquJiu1Nxz3ltgZMRe6AhgunW777JtGi8hOl-9MUQ9Szrnvjc&locale.x=US "PayPal")	[![Twitter](https://img.shields.io/twitter/follow/joaovitorxn?color=blue&label=follow%20me&logo=twitter&style=for-the-badge "Twitter")](https://twitter.com/joaovitorxn "Twitter")
 
 ![Berkcraft Logo](https://i.imgur.com/33VKvbv.png)
 
