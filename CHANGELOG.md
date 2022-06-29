@@ -5,7 +5,7 @@
 
 Berkcraft is now a **BisectHosting** partner!
 
-By using the code "berkcraft" you will get 25% off your first month for ANY game servers!
+By using the code "berkcraft" you will get 25% OFF your first month for ANY game servers!
 
 Get your own server now: https://bisecthosting.com/berkcraft
 
