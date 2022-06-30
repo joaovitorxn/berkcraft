@@ -1,5 +1,19 @@
 # Minecraft 1.19
 
+### Version 1.0.7:
+Added:
+- Better Ping Display
+- Merchant Markers
+- 'Slight' Gui Modifications
+- Smooth Scrolling Everywhere
+
+Updated:
+- Controlling
+- Fabric API
+- Flytre Lib
+
+------------
+
 ### Version 1.0.6:
 #### BIG NEWS!
 
