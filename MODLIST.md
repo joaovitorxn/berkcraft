@@ -32,6 +32,7 @@
 | Advancement Plaques | Grend_G | Replace those boring, anti-climactic advancement popups with fancy glowing plaques |
 | AppleSkin | squeek502 | Adds some useful information about food/hunger to the HUD |
 | Better Mount HUD | Lorsteam_ | Improves the ingame HUD while riding a horse, donkey or other mount. |
+| Better Ping Display | Quintinity | Display ping in ms instead of bars |
 | BisectHosting Server Integration Menu | BisectHosting | BisectHosting Server List Menu Integration for Fabric |
 | Blur | Motschen | Adds a blur effect to all GUI backgrounds |
 | Chat Heads | dzwdz | Adds player heads next to chat messages |
@@ -46,6 +47,7 @@
 | Legendary Tooltips | Grend_G | Give your rare items a fancier tooltip |
 | Main Menu Credits | XanderIsDev | Adds information to the title screen |
 | Map Tooltip | VendoAU | Hover your mouse over a map to see what it looks like |
+| Merchant Markers | Grend_G | Adds custom markers to villagers with professions |
 | Mod Menu | ProspectorDev | Adds a screen for viewing a list of installed mods |
 | Name Pain | naqaden | Recolor the nameplates of players & mobs for combat or cosmetic purposes |
 | NarrateBookForMe | naqaden | Adds a narration keybind and two GUI buttons to the book screen |
@@ -53,6 +55,8 @@
 | Raised | yurisuika | Raises the hotbar so the selector is not cut off |
 | Reese's Sodium Options | FlashyReese | Replaces Sodium's Options Screen with intention of improving UX |
 | ShulkerBoxTooltip | MisterPeModder | Allows you to see a preview window of a shulker box contents when hovering above it in an inventory by pressing shift |
+| 'Slight' Gui Modifications | shedaniel | Allows 'slight' gui modifications |
+| Smooth Scrolling Everywhere | shedaniel | Adds smooth scrolling to every list |
 | ToolTipFix | Kryptonaught | Stops tooltips that are too large to fit on the screen from running off the screen |
 
 # Libraries
