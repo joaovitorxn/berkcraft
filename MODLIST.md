@@ -57,6 +57,7 @@
 | ShulkerBoxTooltip | MisterPeModder | Allows you to see a preview window of a shulker box contents when hovering above it in an inventory by pressing shift |
 | 'Slight' Gui Modifications | shedaniel | Allows 'slight' gui modifications |
 | Smooth Scrolling Everywhere | shedaniel | Adds smooth scrolling to every list |
+| Smooth Swapping | Schauweg | Moves items in inventories smoothly |
 | ToolTipFix | Kryptonaught | Stops tooltips that are too large to fit on the screen from running off the screen |
 
 # Libraries
@@ -108,6 +109,7 @@
 | Name | Author | Description |
 | ------------ | ------------ | ------------ |
 | AntiGhost | Giselbaer | Fixes glitching blocks by typing /ghost |
+| Better Taskbar | morimori0317 | Adds progress to the taskbar when loading resources and worlds |
 | Carpet | gnembon | Take full control over your vanilla game |
 | Carpet Extra | gnembon | Additional features for the Carpet mod |
 | Carpet TIS Addition | Fallen_Breath | A Carpet mod extension with more features |
@@ -146,6 +148,7 @@
 | Falling Leaves | RandomMcSomethin | Adds falling leaves particles to trees |
 | Illuminations | doctor4t | Adds fireflies and various glow-in-the-dark ambient particles |
 | Iris Shaders | coderbot | Adds shader support for Sodium |
+| Item Model Fix | Pepper_Bell | Fixes the transparent lines and gaps on item models |
 | LambdaBetterGrass | LambdAurora | Adds better grass |
 | LambDynamicLights | LambdAurora | Adds dynamic lights |
 | Motschen's Puddles | Motschen | Adds puddles which spawn during rainy weather and makes snow layers pile up during snow storms
