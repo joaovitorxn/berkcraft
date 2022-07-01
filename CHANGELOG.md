@@ -1,5 +1,19 @@
 # Minecraft 1.19
 
+### Version 1.0.8:
+Added:
+- Better Taskbar
+- Item Model Fix
+- Smooth Swapping
+
+Updated:
+- CIT Resewn
+- Flytre Lib
+- No Chat Reports
+- You're in Grave Danger
+
+------------
+
 ### Version 1.0.7:
 Added:
 - Better Ping Display
