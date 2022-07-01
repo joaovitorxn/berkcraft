@@ -57,7 +57,7 @@
 | ShulkerBoxTooltip | MisterPeModder | Allows you to see a preview window of a shulker box contents when hovering above it in an inventory by pressing shift |
 | 'Slight' Gui Modifications | shedaniel | Allows 'slight' gui modifications |
 | Smooth Scrolling Everywhere | shedaniel | Adds smooth scrolling to every list |
-| Smooth Swapping | Schauweg | Moves items in inventories smoothly |
+| Smooth Swapping | Schauweg | Moves items in inventories smoothly instead of letting them appear instantly |
 | ToolTipFix | Kryptonaught | Stops tooltips that are too large to fit on the screen from running off the screen |
 
 # Libraries
