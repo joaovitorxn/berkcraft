@@ -1,5 +1,18 @@
 # Minecraft 1.19
 
+### Version 1.0.9:
+Added:
+- Cherished Worlds
+- Universal Ores
+
+Updated:
+- Dual Riders
+- FallingTree
+- FixMySpawnR
+- ShulkerBoxTooltip
+
+------------
+
 ### Version 1.0.8:
 Added:
 - Better Taskbar
