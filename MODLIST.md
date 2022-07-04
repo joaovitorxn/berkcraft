@@ -23,6 +23,7 @@
 | Precise Block Placing | 3llemes | Improves vanilla block placing |
 | RightClickHarvest | jamalam360 | Harvest crops by right-clicking |
 | SlimyFloor | Pouille | Show slime particles on slime chunks
+| Universal Ores | Hugman_76 | Adds vanilla ore variants to other stone types |
 | You're In Grave Danger | b1n_ry | Spawns a grave with items the player lost on death
 
 # HUD and UI
@@ -36,6 +37,7 @@
 | BisectHosting Server Integration Menu | BisectHosting | BisectHosting Server List Menu Integration for Fabric |
 | Blur | Motschen | Adds a blur effect to all GUI backgrounds |
 | Chat Heads | dzwdz | Adds player heads next to chat messages |
+| Cherished Worlds | TheIllusiveC4 | Adds the ability to favorite/pin/bookmark worlds |
 | Controlling | Jaredllll08 | Adds a search bar to the Key-Bindings menu  |
 | Dark Loading Screen | Neecko5b84 | Makes the loading screen dark |
 | Detail Armor Bar | 빨간라 | Show more details of armors in the armor bar |
