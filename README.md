@@ -2,9 +2,9 @@
 
 [![Download from CurseForge](https://img.shields.io/badge/CURSEFORGE-DOWNLOAD-orange?style=for-the-badge&logo=curseforge&logoColor=orange)](https://www.curseforge.com/minecraft/modpacks/berkcraft)	[![PayPal](https://img.shields.io/badge/SUPPORT%20ME-DONATE-blue?style=for-the-badge&logo=paypal "PayPal")](https://www.paypal.com/donate/?token=IKggYNWBWYWn0mcmRr49l85slAXrwrUgquJiu1Nxz3ltgZMRe6AhgunW777JtGi8hOl-9MUQ9Szrnvjc&locale.x=US "PayPal")	[![Twitter](https://img.shields.io/twitter/follow/joaovitorxn?color=blue&label=follow%20me&logo=twitter&style=for-the-badge "Twitter")](https://twitter.com/joaovitorxn "Twitter")
 
-![Berkcraft Logo](https://i.imgur.com/33VKvbv.png)
+![Berkcraft Logo](https://www.bisecthosting.com/images/CF/Berkcraft/BH_BC_Title.png)
 
-[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/f7df0450-4c7b-4d46-aab0-2781d46371ed.png)](https://bisecthosting.com/berkcraft)
+[![BisectHosting](https://www.bisecthosting.com/images/CF/Berkcraft/BH_BC_BisectPromo.png)](https://bisecthosting.com/berkcraft)
 
 
 ------------
@@ -12,7 +12,11 @@
 
 ### **This modpack focuses on only one thing: improving the true vanilla experience without filling up your game with tons of mods.**
 
-#### **MAIN FEATURES:**
+
+------------
+
+
+![Overview](https://www.bisecthosting.com/images/CF/Berkcraft/BH_BC_Overview.png)
 
 - **Dynamic lights** and **shader support**
 - Improved visuals with new **particle effects**, **animations** and **models**
