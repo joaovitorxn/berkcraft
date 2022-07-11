@@ -1,5 +1,19 @@
 # Minecraft 1.19
 
+### Version 1.1.0:
+Updated:
+- Architectury API
+- Borderless Mining
+- Controlling
+- Cull Less Leaves
+- FallingTree
+- Lithium
+- Puzzle
+- RightClickHarvest
+- Universal Ores
+
+------------
+
 ### Version 1.0.9:
 Added:
 - Cherished Worlds
