@@ -1,6 +1,9 @@
 # Minecraft 1.19
 
 ### Version 1.1.0:
+
+Known issue: If you get an error when launching for the first time on this version, just launch the game again and it should be fine.
+
 Updated:
 - Architectury API
 - Borderless Mining
